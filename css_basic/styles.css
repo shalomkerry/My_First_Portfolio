@@ -13,6 +13,7 @@ main {
 article {
   flex: 2;
   overflow-y: auto;
+  padding:10px;
 }
 
 aside {
